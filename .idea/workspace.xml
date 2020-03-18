@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e594630-1436-4c30-9a29-cae7c388b66c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZAoa1Tw73hF76Yx9CGNmKHpUJ1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mitul\IdeaProjects\testdrivers\drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LoginTestCase">
+    <configuration name="DemoOrange.EnterUserName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework14032020" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DemoOrange" />
+      <option name="METHOD_NAME" value="EnterUserName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTestCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework14032020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework14032020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework14032020" />
+      <option name="MAIN_CLASS_NAME" value="homework14032020.LoginTestCase" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTestCase.userShouldloginSuccesfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework14032020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework14032020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework14032020" />
+      <option name="MAIN_CLASS_NAME" value="homework14032020.LoginTestCase" />
+      <option name="METHOD_NAME" value="userShouldloginSuccesfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTestCase.usersholudSeenPageTitle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework14032020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework14032020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework14032020" />
+      <option name="MAIN_CLASS_NAME" value="homework14032020.LoginTestCase" />
+      <option name="METHOD_NAME" value="usersholudSeenPageTitle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTestCase.usershouldseenwelcomepage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework14032020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework14032020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework14032020" />
+      <option name="MAIN_CLASS_NAME" value="homework14032020.LoginTestCase" />
+      <option name="METHOD_NAME" value="usershouldseenwelcomepage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LoginTestCase" />
+        <item itemvalue="JUnit.DemoOrange.EnterUserName" />
+        <item itemvalue="JUnit.LoginTestCase.userShouldloginSuccesfully" />
+        <item itemvalue="JUnit.LoginTestCase.usershouldseenwelcomepage" />
+        <item itemvalue="JUnit.LoginTestCase.usersholudSeenPageTitle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e594630-1436-4c30-9a29-cae7c388b66c" name="Default Changelist" comment="" />
+      <created>1584291318360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584291318360</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1584291452203">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584291452203" />
+    <state width="1323" height="105" key="GridCell.Tab.0.bottom" timestamp="1584545742241">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="105" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584545742241" />
+    <state width="1323" height="105" key="GridCell.Tab.0.center" timestamp="1584545742241">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="105" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584545742241" />
+    <state width="1323" height="105" key="GridCell.Tab.0.left" timestamp="1584545742241">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="105" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584545742241" />
+    <state width="1323" height="105" key="GridCell.Tab.0.right" timestamp="1584545742241">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="105" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584545742241" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1584483815278">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584483815278" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1584483815278">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584483815278" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1584483815278">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584483815278" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1584483815278">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584483815278" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1584291456424">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584291456424" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1584545856823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584545856823" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1584481210667">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1584481210667" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584544911598">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584544911598" />
+  </component>
+</project>
